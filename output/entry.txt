@@ -1,1 +1,1 @@
-Error: bread detected. This is a toaster. Nobody is more surprised than we are.
+TOAST ERROR: bread ejected prematurely. Your expectations rose faster than the yeast. Retry after emotional toasting cooldown.
